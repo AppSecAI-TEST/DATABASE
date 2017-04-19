@@ -13,6 +13,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
+
 public class Database {
     public static SQLiteDatabase initDatabase(Activity activity, String databaseName){
         try {
